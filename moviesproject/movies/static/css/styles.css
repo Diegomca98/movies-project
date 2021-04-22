@@ -1,0 +1,12 @@
+header nav.bg-light {
+    background: #00000033!important;
+}
+
+body {
+    background: #f8f9fa!important;
+}
+
+body .container {
+    padding-top: 1em;
+    padding-bottom: 4em!important;
+}
